@@ -1,0 +1,1 @@
+My goal in creating this repository was just to create a single binary that could be used on 10.8, 10.7, and 10.6 for use in the Probook Installer.
